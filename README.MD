@@ -19,7 +19,7 @@
 
 ### Heruko Deploy
 
-<a href="https://heroku.com/deploy?template=https://github.com/Snowball-01/Auto-Accept-Telegram-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/ayanokozii/Auto-Accept-Telegram-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
